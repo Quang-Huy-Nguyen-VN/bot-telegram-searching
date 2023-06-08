@@ -1,0 +1,6 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.4",
+        "google/apiclient": "2.0"
+    }
+}
